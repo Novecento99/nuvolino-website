@@ -1,4 +1,4 @@
-baseURL = 'https://omartek.github.io/Nuvolino/'
+baseURL = 'https://omartek.github.io/nuvolino-website/'
 title = 'Nuvolino'
 theme = 'hugo-theme-relearn'
 
